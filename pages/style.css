@@ -85,7 +85,7 @@ header nav ul li{
 #main-image-service{
     margin: 0 auto;
     height: 500px;
-    background:url('images/image2.jpg') ;
+    background:url('../images/image2.jpg') ;
 
 }
  
@@ -128,13 +128,13 @@ header nav ul li{
 }
 
 #step-1{
-   background: url('images/24.2\ steps-icon-1.png.png') no-repeat top  center;
+   background: url('../images/1.png') no-repeat top  center;
 }
 #step-2{
-    background: url('images/24.1\ steps-icon-2.png.png') no-repeat top  center ;
+    background: url('../images/2.png') no-repeat top  center ;
 }
 #step-3{
-    background: url('images/24.3\ steps-icon-3.png.png') no-repeat top  center;
+    background: url('../images/3.png') no-repeat top  center;
 }
 
 #steps2{
@@ -302,10 +302,7 @@ footer{
      border-radius: 15px;
      
  }
- .formulaire{
-     background-image: url('images/apple1.jpg');
- }
-
+ 
 #canvas1{
-    background-color: #444;
+    background-color: rgb(71, 70, 70);
 }
